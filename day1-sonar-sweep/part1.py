@@ -17,4 +17,4 @@ def find_increasing_nums(filename):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    find_increasing_nums("../input.txt")
+    find_increasing_nums("input.txt")
